@@ -42,8 +42,9 @@ on camaraderie, hard work and smart risks.
   * Show your work to 50 million people a month.
   * Work in a fast moving, startup like environment.
 6. We need to show what positions we are hiring for:
+
   Position        | Location     | Job
-  -------------------------------------
+  ----------------|--------------|-----
   Web Developer   | Seattle, WA  | Design Genius
   Rails Engineer  | Seattle, WA  | Coding Rock Star
   UX Designer     | Seattle, WA  | User Advocate
