@@ -1,6 +1,6 @@
 # Web Developer Code Challenge
 
-We are going to build a Web Page!  I have a few requirements, but the design, structure, technology choices, and coding are all up to you.
+We are going to design and build a web page!  We have a few requirements, but the design, structure, technology choices, and coding are all up to you.
 
 ## Requirements
 __________________
@@ -40,7 +40,7 @@ __________________
 
 The rest is up to you!  Challenge yourself with a design that pushes your coding abilities.  Feel free to use any open source frameworks or tooling you would like, but be prepared to defend your choices.  You can use any images provided in the sprite, media you create, or fair use media.
 
-Use your imagination! Push yourself! Write your code like it's going to be seen 50 million times a month, because if you join us at WhitePages, it will!
+Use your imagination! Push yourself! Write your code like it's going to be seen 50 million times a month and on dozens of platforms, because if you join us at WhitePages, it will!
 
 Good Luck, and have fun...
 
