@@ -1,6 +1,6 @@
 # Web Developer Code Challenge
 
-We are going to design and build a web page!  We have a few requirements, and some helpful design guidlines,but the technology choices, coding and final product are all up to you.
+We are going to design and build a web page!  We have a few requirements, and some helpful design guidlines, but the technology choices, coding and final product are all up to you.
 
 ## Requirements
 __________________
